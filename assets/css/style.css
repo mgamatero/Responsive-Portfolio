@@ -234,7 +234,7 @@ input[type=submit] {
 }
 
 
-/* Tablet */
+/* Tablet? */
 @media only screen 
   and (min-device-width: 769px) 
   and (max-device-width: 980px) 
@@ -302,7 +302,7 @@ input[type=submit] {
 }
 
 
-/* Tablet */
+/* Small Tablet/Big Phone? */
 @media only screen 
   and (max-device-width: 768px) 
   and (min-device-width: 641px) 
@@ -371,7 +371,7 @@ input[type=submit] {
     }
 
 }
-/* Phone */
+/* Small Phone? */
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 640px)
